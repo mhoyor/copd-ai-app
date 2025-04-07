@@ -1,0 +1,865 @@
+location_name,year_id,indicator_name,val
+Algeria,1990,Chronic_Respiratory(RSD),1.785
+Algeria,1995,Chronic_Respiratory(RSD),1.421
+Algeria,2000,Chronic_Respiratory(RSD),1.18
+Algeria,2005,Chronic_Respiratory(RSD),0.91
+Algeria,2010,Chronic_Respiratory(RSD),0.734
+Algeria,2016,Chronic_Respiratory(RSD),0.56
+Egypt,1990,Chronic_Respiratory(RSD),7.698
+Egypt,1995,Chronic_Respiratory(RSD),4.928
+Egypt,2000,Chronic_Respiratory(RSD),3.33
+Egypt,2005,Chronic_Respiratory(RSD),2.594
+Egypt,2010,Chronic_Respiratory(RSD),2.137
+Egypt,2016,Chronic_Respiratory(RSD),1.53
+Libya,1990,Chronic_Respiratory(RSD),1.331
+Libya,1995,Chronic_Respiratory(RSD),1.114
+Libya,2000,Chronic_Respiratory(RSD),0.908
+Libya,2005,Chronic_Respiratory(RSD),0.725
+Libya,2010,Chronic_Respiratory(RSD),0.526
+Libya,2016,Chronic_Respiratory(RSD),0.388
+Morocco,1990,Chronic_Respiratory(RSD),2.333
+Morocco,1995,Chronic_Respiratory(RSD),1.643
+Morocco,2000,Chronic_Respiratory(RSD),1.215
+Morocco,2005,Chronic_Respiratory(RSD),0.922
+Morocco,2010,Chronic_Respiratory(RSD),0.753
+Morocco,2016,Chronic_Respiratory(RSD),0.571
+Tunisia,1990,Chronic_Respiratory(RSD),2.334
+Tunisia,1995,Chronic_Respiratory(RSD),1.597
+Tunisia,2000,Chronic_Respiratory(RSD),1.105
+Tunisia,2005,Chronic_Respiratory(RSD),0.821
+Tunisia,2010,Chronic_Respiratory(RSD),0.635
+Tunisia,2016,Chronic_Respiratory(RSD),0.44
+Angola,1990,Chronic_Respiratory(RSD),3.744
+Angola,1995,Chronic_Respiratory(RSD),3.285
+Angola,2000,Chronic_Respiratory(RSD),3.303
+Angola,2005,Chronic_Respiratory(RSD),3.44
+Angola,2010,Chronic_Respiratory(RSD),2.864
+Angola,2016,Chronic_Respiratory(RSD),1.354
+Central African Republic,1990,Chronic_Respiratory(RSD),4.095
+Central African Republic,1995,Chronic_Respiratory(RSD),3.925
+Central African Republic,2000,Chronic_Respiratory(RSD),3.714
+Central African Republic,2005,Chronic_Respiratory(RSD),3.423
+Central African Republic,2010,Chronic_Respiratory(RSD),4.134
+Central African Republic,2016,Chronic_Respiratory(RSD),3.171
+Congo,1990,Chronic_Respiratory(RSD),2.509
+Congo,1995,Chronic_Respiratory(RSD),2.395
+Congo,2000,Chronic_Respiratory(RSD),2.454
+Congo,2005,Chronic_Respiratory(RSD),2.291
+Congo,2010,Chronic_Respiratory(RSD),1.969
+Congo,2016,Chronic_Respiratory(RSD),1.276
+Democratic Republic of the Congo,1990,Chronic_Respiratory(RSD),3.529
+Democratic Republic of the Congo,1995,Chronic_Respiratory(RSD),3.357
+Democratic Republic of the Congo,2000,Chronic_Respiratory(RSD),3.081
+Democratic Republic of the Congo,2005,Chronic_Respiratory(RSD),2.557
+Democratic Republic of the Congo,2010,Chronic_Respiratory(RSD),2.283
+Democratic Republic of the Congo,2016,Chronic_Respiratory(RSD),1.929
+Equatorial Guinea,1990,Chronic_Respiratory(RSD),4.62
+Equatorial Guinea,1995,Chronic_Respiratory(RSD),4.458
+Equatorial Guinea,2000,Chronic_Respiratory(RSD),2.479
+Equatorial Guinea,2005,Chronic_Respiratory(RSD),1.283
+Equatorial Guinea,2010,Chronic_Respiratory(RSD),1.157
+Equatorial Guinea,2016,Chronic_Respiratory(RSD),0.446
+Gabon,1990,Chronic_Respiratory(RSD),1.69
+Gabon,1995,Chronic_Respiratory(RSD),1.253
+Gabon,2000,Chronic_Respiratory(RSD),0.987
+Gabon,2005,Chronic_Respiratory(RSD),1.315
+Gabon,2010,Chronic_Respiratory(RSD),1.093
+Gabon,2016,Chronic_Respiratory(RSD),0.742
+Burundi,1990,Chronic_Respiratory(RSD),6.367
+Burundi,1995,Chronic_Respiratory(RSD),4.899
+Burundi,2000,Chronic_Respiratory(RSD),3.794
+Burundi,2005,Chronic_Respiratory(RSD),3.374
+Burundi,2010,Chronic_Respiratory(RSD),2.553
+Burundi,2016,Chronic_Respiratory(RSD),2.481
+Comoros,1990,Chronic_Respiratory(RSD),3.273
+Comoros,1995,Chronic_Respiratory(RSD),2.581
+Comoros,2000,Chronic_Respiratory(RSD),1.931
+Comoros,2005,Chronic_Respiratory(RSD),1.726
+Comoros,2010,Chronic_Respiratory(RSD),1.72
+Comoros,2016,Chronic_Respiratory(RSD),1.128
+Djibouti,1990,Chronic_Respiratory(RSD),5.941
+Djibouti,1995,Chronic_Respiratory(RSD),4.841
+Djibouti,2000,Chronic_Respiratory(RSD),3.436
+Djibouti,2005,Chronic_Respiratory(RSD),2.629
+Djibouti,2010,Chronic_Respiratory(RSD),2.049
+Djibouti,2016,Chronic_Respiratory(RSD),1.334
+Eritrea,1990,Chronic_Respiratory(RSD),4.972
+Eritrea,1995,Chronic_Respiratory(RSD),4.105
+Eritrea,2000,Chronic_Respiratory(RSD),3.33
+Eritrea,2005,Chronic_Respiratory(RSD),3.071
+Eritrea,2010,Chronic_Respiratory(RSD),2.333
+Eritrea,2016,Chronic_Respiratory(RSD),1.673
+Ethiopia,1990,Chronic_Respiratory(RSD),3.956
+Ethiopia,1995,Chronic_Respiratory(RSD),3.545
+Ethiopia,2000,Chronic_Respiratory(RSD),2.999
+Ethiopia,2005,Chronic_Respiratory(RSD),2.543
+Ethiopia,2010,Chronic_Respiratory(RSD),1.827
+Ethiopia,2016,Chronic_Respiratory(RSD),0.948
+Kenya,1990,Chronic_Respiratory(RSD),1.519
+Kenya,1995,Chronic_Respiratory(RSD),1.331
+Kenya,2000,Chronic_Respiratory(RSD),1.105
+Kenya,2005,Chronic_Respiratory(RSD),0.967
+Kenya,2010,Chronic_Respiratory(RSD),0.892
+Kenya,2016,Chronic_Respiratory(RSD),0.667
+Madagascar,1990,Chronic_Respiratory(RSD),9.356
+Madagascar,1995,Chronic_Respiratory(RSD),10.132
+Madagascar,2000,Chronic_Respiratory(RSD),7.659
+Madagascar,2005,Chronic_Respiratory(RSD),6.129
+Madagascar,2010,Chronic_Respiratory(RSD),6.033
+Madagascar,2016,Chronic_Respiratory(RSD),5.352
+Malawi,1990,Chronic_Respiratory(RSD),5.943
+Malawi,1995,Chronic_Respiratory(RSD),4.381
+Malawi,2000,Chronic_Respiratory(RSD),3.675
+Malawi,2005,Chronic_Respiratory(RSD),2.49
+Malawi,2010,Chronic_Respiratory(RSD),2.096
+Malawi,2016,Chronic_Respiratory(RSD),1.465
+Mauritius,1990,Chronic_Respiratory(RSD),3.522
+Mauritius,1995,Chronic_Respiratory(RSD),2.283
+Mauritius,2000,Chronic_Respiratory(RSD),2.097
+Mauritius,2005,Chronic_Respiratory(RSD),1.863
+Mauritius,2010,Chronic_Respiratory(RSD),1.612
+Mauritius,2016,Chronic_Respiratory(RSD),1.353
+Mozambique,1990,Chronic_Respiratory(RSD),5.143
+Mozambique,1995,Chronic_Respiratory(RSD),4.723
+Mozambique,2000,Chronic_Respiratory(RSD),3.731
+Mozambique,2005,Chronic_Respiratory(RSD),2.789
+Mozambique,2010,Chronic_Respiratory(RSD),2.286
+Mozambique,2016,Chronic_Respiratory(RSD),1.634
+Rwanda,1990,Chronic_Respiratory(RSD),6.628
+Rwanda,1995,Chronic_Respiratory(RSD),6.07
+Rwanda,2000,Chronic_Respiratory(RSD),4.927
+Rwanda,2005,Chronic_Respiratory(RSD),4.085
+Rwanda,2010,Chronic_Respiratory(RSD),2.371
+Rwanda,2016,Chronic_Respiratory(RSD),1.716
+Seychelles,1990,Chronic_Respiratory(RSD),0.918
+Seychelles,1995,Chronic_Respiratory(RSD),0.744
+Seychelles,2000,Chronic_Respiratory(RSD),0.672
+Seychelles,2005,Chronic_Respiratory(RSD),0.692
+Seychelles,2010,Chronic_Respiratory(RSD),0.604
+Seychelles,2016,Chronic_Respiratory(RSD),0.468
+Somalia,1990,Chronic_Respiratory(RSD),7.447
+Somalia,1995,Chronic_Respiratory(RSD),6.165
+Somalia,2000,Chronic_Respiratory(RSD),4.56
+Somalia,2005,Chronic_Respiratory(RSD),3.546
+Somalia,2010,Chronic_Respiratory(RSD),3.294
+Somalia,2016,Chronic_Respiratory(RSD),2.67
+Tanzania,1990,Chronic_Respiratory(RSD),3.736
+Tanzania,1995,Chronic_Respiratory(RSD),3.169
+Tanzania,2000,Chronic_Respiratory(RSD),2.516
+Tanzania,2005,Chronic_Respiratory(RSD),2.563
+Tanzania,2010,Chronic_Respiratory(RSD),2.215
+Tanzania,2016,Chronic_Respiratory(RSD),1.618
+Uganda,1990,Chronic_Respiratory(RSD),4.822
+Uganda,1995,Chronic_Respiratory(RSD),3.639
+Uganda,2000,Chronic_Respiratory(RSD),2.461
+Uganda,2005,Chronic_Respiratory(RSD),2.119
+Uganda,2010,Chronic_Respiratory(RSD),1.74
+Uganda,2016,Chronic_Respiratory(RSD),1.479
+Zambia,1990,Chronic_Respiratory(RSD),5.437
+Zambia,1995,Chronic_Respiratory(RSD),4.337
+Zambia,2000,Chronic_Respiratory(RSD),3.154
+Zambia,2005,Chronic_Respiratory(RSD),2.679
+Zambia,2010,Chronic_Respiratory(RSD),1.949
+Zambia,2016,Chronic_Respiratory(RSD),1.478
+Botswana,1990,Chronic_Respiratory(RSD),1.599
+Botswana,1995,Chronic_Respiratory(RSD),1.605
+Botswana,2000,Chronic_Respiratory(RSD),1.741
+Botswana,2005,Chronic_Respiratory(RSD),1.357
+Botswana,2010,Chronic_Respiratory(RSD),0.984
+Botswana,2016,Chronic_Respiratory(RSD),0.657
+Lesotho,1990,Chronic_Respiratory(RSD),2.628
+Lesotho,1995,Chronic_Respiratory(RSD),2.407
+Lesotho,2000,Chronic_Respiratory(RSD),2.74
+Lesotho,2005,Chronic_Respiratory(RSD),3.14
+Lesotho,2010,Chronic_Respiratory(RSD),2.946
+Lesotho,2016,Chronic_Respiratory(RSD),2.47
+Namibia,1990,Chronic_Respiratory(RSD),2.858
+Namibia,1995,Chronic_Respiratory(RSD),2.011
+Namibia,2000,Chronic_Respiratory(RSD),2.149
+Namibia,2005,Chronic_Respiratory(RSD),2.194
+Namibia,2010,Chronic_Respiratory(RSD),2.147
+Namibia,2016,Chronic_Respiratory(RSD),1.46
+South Africa,1990,Chronic_Respiratory(RSD),2.91
+South Africa,1995,Chronic_Respiratory(RSD),2.405
+South Africa,2000,Chronic_Respiratory(RSD),2.559
+South Africa,2005,Chronic_Respiratory(RSD),2.78
+South Africa,2010,Chronic_Respiratory(RSD),2.931
+South Africa,2016,Chronic_Respiratory(RSD),2.642
+Swaziland,1990,Chronic_Respiratory(RSD),2.373
+Swaziland,1995,Chronic_Respiratory(RSD),2.063
+Swaziland,2000,Chronic_Respiratory(RSD),2.811
+Swaziland,2005,Chronic_Respiratory(RSD),3.378
+Swaziland,2010,Chronic_Respiratory(RSD),2.496
+Swaziland,2016,Chronic_Respiratory(RSD),1.7
+Zimbabwe,1990,Chronic_Respiratory(RSD),1.476
+Zimbabwe,1995,Chronic_Respiratory(RSD),1.04
+Zimbabwe,2000,Chronic_Respiratory(RSD),1.357
+Zimbabwe,2005,Chronic_Respiratory(RSD),1.659
+Zimbabwe,2010,Chronic_Respiratory(RSD),1.954
+Zimbabwe,2016,Chronic_Respiratory(RSD),1.703
+Benin,1990,Chronic_Respiratory(RSD),2.401
+Benin,1995,Chronic_Respiratory(RSD),2.503
+Benin,2000,Chronic_Respiratory(RSD),2.191
+Benin,2005,Chronic_Respiratory(RSD),1.497
+Benin,2010,Chronic_Respiratory(RSD),1.227
+Benin,2016,Chronic_Respiratory(RSD),0.953
+Burkina Faso,1990,Chronic_Respiratory(RSD),3.525
+Burkina Faso,1995,Chronic_Respiratory(RSD),3.045
+Burkina Faso,2000,Chronic_Respiratory(RSD),2.665
+Burkina Faso,2005,Chronic_Respiratory(RSD),2.061
+Burkina Faso,2010,Chronic_Respiratory(RSD),1.878
+Burkina Faso,2016,Chronic_Respiratory(RSD),1.699
+Cameroon,1990,Chronic_Respiratory(RSD),1.572
+Cameroon,1995,Chronic_Respiratory(RSD),1.725
+Cameroon,2000,Chronic_Respiratory(RSD),1.731
+Cameroon,2005,Chronic_Respiratory(RSD),1.506
+Cameroon,2010,Chronic_Respiratory(RSD),1.699
+Cameroon,2016,Chronic_Respiratory(RSD),1.439
+Cape Verde,1990,Chronic_Respiratory(RSD),2.076
+Cape Verde,1995,Chronic_Respiratory(RSD),1.428
+Cape Verde,2000,Chronic_Respiratory(RSD),0.74
+Cape Verde,2005,Chronic_Respiratory(RSD),0.543
+Cape Verde,2010,Chronic_Respiratory(RSD),0.45
+Cape Verde,2016,Chronic_Respiratory(RSD),0.329
+Chad,1990,Chronic_Respiratory(RSD),2.367
+Chad,1995,Chronic_Respiratory(RSD),2.45
+Chad,2000,Chronic_Respiratory(RSD),2.703
+Chad,2005,Chronic_Respiratory(RSD),2.455
+Chad,2010,Chronic_Respiratory(RSD),2.514
+Chad,2016,Chronic_Respiratory(RSD),2.066
+Cote d'Ivoire,1990,Chronic_Respiratory(RSD),1.394
+Cote d'Ivoire,1995,Chronic_Respiratory(RSD),1.449
+Cote d'Ivoire,2000,Chronic_Respiratory(RSD),1.403
+Cote d'Ivoire,2005,Chronic_Respiratory(RSD),1.128
+Cote d'Ivoire,2010,Chronic_Respiratory(RSD),1.04
+Cote d'Ivoire,2016,Chronic_Respiratory(RSD),1.174
+The Gambia,1990,Chronic_Respiratory(RSD),1.417
+The Gambia,1995,Chronic_Respiratory(RSD),1.3
+The Gambia,2000,Chronic_Respiratory(RSD),1.23
+The Gambia,2005,Chronic_Respiratory(RSD),1.349
+The Gambia,2010,Chronic_Respiratory(RSD),1.081
+The Gambia,2016,Chronic_Respiratory(RSD),0.906
+Ghana,1990,Chronic_Respiratory(RSD),1.393
+Ghana,1995,Chronic_Respiratory(RSD),1.329
+Ghana,2000,Chronic_Respiratory(RSD),1.159
+Ghana,2005,Chronic_Respiratory(RSD),1.246
+Ghana,2010,Chronic_Respiratory(RSD),0.973
+Ghana,2016,Chronic_Respiratory(RSD),0.726
+Guinea,1990,Chronic_Respiratory(RSD),2.978
+Guinea,1995,Chronic_Respiratory(RSD),3.108
+Guinea,2000,Chronic_Respiratory(RSD),2.605
+Guinea,2005,Chronic_Respiratory(RSD),2.216
+Guinea,2010,Chronic_Respiratory(RSD),1.895
+Guinea,2016,Chronic_Respiratory(RSD),1.488
+Guinea-Bissau,1990,Chronic_Respiratory(RSD),3.048
+Guinea-Bissau,1995,Chronic_Respiratory(RSD),2.918
+Guinea-Bissau,2000,Chronic_Respiratory(RSD),2.853
+Guinea-Bissau,2005,Chronic_Respiratory(RSD),2.416
+Guinea-Bissau,2010,Chronic_Respiratory(RSD),2.257
+Guinea-Bissau,2016,Chronic_Respiratory(RSD),1.48
+Liberia,1990,Chronic_Respiratory(RSD),3.321
+Liberia,1995,Chronic_Respiratory(RSD),3.068
+Liberia,2000,Chronic_Respiratory(RSD),2.37
+Liberia,2005,Chronic_Respiratory(RSD),1.453
+Liberia,2010,Chronic_Respiratory(RSD),1.227
+Liberia,2016,Chronic_Respiratory(RSD),0.956
+Mali,1990,Chronic_Respiratory(RSD),1.141
+Mali,1995,Chronic_Respiratory(RSD),1.023
+Mali,2000,Chronic_Respiratory(RSD),0.919
+Mali,2005,Chronic_Respiratory(RSD),0.762
+Mali,2010,Chronic_Respiratory(RSD),0.702
+Mali,2016,Chronic_Respiratory(RSD),0.581
+Mauritania,1990,Chronic_Respiratory(RSD),1.116
+Mauritania,1995,Chronic_Respiratory(RSD),1.121
+Mauritania,2000,Chronic_Respiratory(RSD),1.351
+Mauritania,2005,Chronic_Respiratory(RSD),1.327
+Mauritania,2010,Chronic_Respiratory(RSD),1.058
+Mauritania,2016,Chronic_Respiratory(RSD),0.799
+Niger,1990,Chronic_Respiratory(RSD),4.071
+Niger,1995,Chronic_Respiratory(RSD),4.149
+Niger,2000,Chronic_Respiratory(RSD),3.672
+Niger,2005,Chronic_Respiratory(RSD),2.927
+Niger,2010,Chronic_Respiratory(RSD),2.015
+Niger,2016,Chronic_Respiratory(RSD),1.685
+Nigeria,1990,Chronic_Respiratory(RSD),2.042
+Nigeria,1995,Chronic_Respiratory(RSD),2.154
+Nigeria,2000,Chronic_Respiratory(RSD),2.123
+Nigeria,2005,Chronic_Respiratory(RSD),1.687
+Nigeria,2010,Chronic_Respiratory(RSD),1.582
+Nigeria,2016,Chronic_Respiratory(RSD),1.252
+Sao Tome and Principe,1990,Chronic_Respiratory(RSD),5.207
+Sao Tome and Principe,1995,Chronic_Respiratory(RSD),4.222
+Sao Tome and Principe,2000,Chronic_Respiratory(RSD),3.43
+Sao Tome and Principe,2005,Chronic_Respiratory(RSD),2.368
+Sao Tome and Principe,2010,Chronic_Respiratory(RSD),1.973
+Sao Tome and Principe,2016,Chronic_Respiratory(RSD),1.495
+Senegal,1990,Chronic_Respiratory(RSD),2.022
+Senegal,1995,Chronic_Respiratory(RSD),1.896
+Senegal,2000,Chronic_Respiratory(RSD),1.771
+Senegal,2005,Chronic_Respiratory(RSD),1.799
+Senegal,2010,Chronic_Respiratory(RSD),1.315
+Senegal,2016,Chronic_Respiratory(RSD),0.99
+Sierra Leone,1990,Chronic_Respiratory(RSD),2.786
+Sierra Leone,1995,Chronic_Respiratory(RSD),2.675
+Sierra Leone,2000,Chronic_Respiratory(RSD),2.545
+Sierra Leone,2005,Chronic_Respiratory(RSD),2.006
+Sierra Leone,2010,Chronic_Respiratory(RSD),1.689
+Sierra Leone,2016,Chronic_Respiratory(RSD),1.403
+Togo,1990,Chronic_Respiratory(RSD),1.945
+Togo,1995,Chronic_Respiratory(RSD),1.928
+Togo,2000,Chronic_Respiratory(RSD),1.805
+Togo,2005,Chronic_Respiratory(RSD),1.514
+Togo,2010,Chronic_Respiratory(RSD),1.233
+Togo,2016,Chronic_Respiratory(RSD),0.905
+South Sudan,1990,Chronic_Respiratory(RSD),6.052
+South Sudan,1995,Chronic_Respiratory(RSD),4.236
+South Sudan,2000,Chronic_Respiratory(RSD),3.013
+South Sudan,2005,Chronic_Respiratory(RSD),2.585
+South Sudan,2010,Chronic_Respiratory(RSD),2.402
+South Sudan,2016,Chronic_Respiratory(RSD),1.895
+Sudan,1990,Chronic_Respiratory(RSD),8.164
+Sudan,1995,Chronic_Respiratory(RSD),6.667
+Sudan,2000,Chronic_Respiratory(RSD),4.545
+Sudan,2005,Chronic_Respiratory(RSD),3.797
+Sudan,2010,Chronic_Respiratory(RSD),3.664
+Sudan,2016,Chronic_Respiratory(RSD),2.765
+Algeria,1990,HAQ_Index,42.8
+Algeria,1995,HAQ_Index,46.9
+Algeria,2000,HAQ_Index,50.6
+Algeria,2005,HAQ_Index,55.3
+Algeria,2010,HAQ_Index,58.2
+Algeria,2016,HAQ_Index,63.1
+Egypt,1990,HAQ_Index,34.2
+Egypt,1995,HAQ_Index,39.5
+Egypt,2000,HAQ_Index,45.9
+Egypt,2005,HAQ_Index,49.9
+Egypt,2010,HAQ_Index,53.4
+Egypt,2016,HAQ_Index,58.0
+Libya,1990,HAQ_Index,50.9
+Libya,1995,HAQ_Index,54.7
+Libya,2000,HAQ_Index,57.9
+Libya,2005,HAQ_Index,62.6
+Libya,2010,HAQ_Index,69.9
+Libya,2016,HAQ_Index,71.1
+Morocco,1990,HAQ_Index,37.5
+Morocco,1995,HAQ_Index,40.6
+Morocco,2000,HAQ_Index,44.6
+Morocco,2005,HAQ_Index,47.6
+Morocco,2010,HAQ_Index,52.0
+Morocco,2016,HAQ_Index,57.6
+Tunisia,1990,HAQ_Index,47.6
+Tunisia,1995,HAQ_Index,52.6
+Tunisia,2000,HAQ_Index,59.0
+Tunisia,2005,HAQ_Index,61.4
+Tunisia,2010,HAQ_Index,64.7
+Tunisia,2016,HAQ_Index,69.4
+Angola,1990,HAQ_Index,18.4
+Angola,1995,HAQ_Index,19.1
+Angola,2000,HAQ_Index,20.6
+Angola,2005,HAQ_Index,23.4
+Angola,2010,HAQ_Index,26.9
+Angola,2016,HAQ_Index,33.4
+Central African Republic,1990,HAQ_Index,15.8
+Central African Republic,1995,HAQ_Index,16.0
+Central African Republic,2000,HAQ_Index,16.1
+Central African Republic,2005,HAQ_Index,17.4
+Central African Republic,2010,HAQ_Index,18.7
+Central African Republic,2016,HAQ_Index,18.6
+Congo,1990,HAQ_Index,21.0
+Congo,1995,HAQ_Index,20.4
+Congo,2000,HAQ_Index,21.9
+Congo,2005,HAQ_Index,27.6
+Congo,2010,HAQ_Index,29.6
+Congo,2016,HAQ_Index,34.1
+Democratic Republic of the Congo,1990,HAQ_Index,21.6
+Democratic Republic of the Congo,1995,HAQ_Index,21.7
+Democratic Republic of the Congo,2000,HAQ_Index,22.1
+Democratic Republic of the Congo,2005,HAQ_Index,24.9
+Democratic Republic of the Congo,2010,HAQ_Index,26.2
+Democratic Republic of the Congo,2016,HAQ_Index,29.6
+Equatorial Guinea,1990,HAQ_Index,13.9
+Equatorial Guinea,1995,HAQ_Index,15.7
+Equatorial Guinea,2000,HAQ_Index,25.7
+Equatorial Guinea,2005,HAQ_Index,37.0
+Equatorial Guinea,2010,HAQ_Index,41.7
+Equatorial Guinea,2016,HAQ_Index,49.3
+Gabon,1990,HAQ_Index,27.7
+Gabon,1995,HAQ_Index,27.9
+Gabon,2000,HAQ_Index,28.6
+Gabon,2005,HAQ_Index,30.7
+Gabon,2010,HAQ_Index,34.8
+Gabon,2016,HAQ_Index,40.4
+Burundi,1990,HAQ_Index,14.3
+Burundi,1995,HAQ_Index,15.1
+Burundi,2000,HAQ_Index,17.7
+Burundi,2005,HAQ_Index,24.2
+Burundi,2010,HAQ_Index,26.8
+Burundi,2016,HAQ_Index,27.4
+Comoros,1990,HAQ_Index,19.4
+Comoros,1995,HAQ_Index,20.9
+Comoros,2000,HAQ_Index,23.4
+Comoros,2005,HAQ_Index,27.5
+Comoros,2010,HAQ_Index,31.6
+Comoros,2016,HAQ_Index,33.0
+Djibouti,1990,HAQ_Index,23.1
+Djibouti,1995,HAQ_Index,23.1
+Djibouti,2000,HAQ_Index,24.3
+Djibouti,2005,HAQ_Index,27.4
+Djibouti,2010,HAQ_Index,30.6
+Djibouti,2016,HAQ_Index,35.0
+Eritrea,1990,HAQ_Index,12.2
+Eritrea,1995,HAQ_Index,17.0
+Eritrea,2000,HAQ_Index,20.7
+Eritrea,2005,HAQ_Index,23.7
+Eritrea,2010,HAQ_Index,24.2
+Eritrea,2016,HAQ_Index,27.6
+Ethiopia,1990,HAQ_Index,10.6
+Ethiopia,1995,HAQ_Index,11.7
+Ethiopia,2000,HAQ_Index,14.0
+Ethiopia,2005,HAQ_Index,18.5
+Ethiopia,2010,HAQ_Index,22.9
+Ethiopia,2016,HAQ_Index,28.1
+Kenya,1990,HAQ_Index,32.4
+Kenya,1995,HAQ_Index,31.7
+Kenya,2000,HAQ_Index,32.3
+Kenya,2005,HAQ_Index,35.1
+Kenya,2010,HAQ_Index,37.0
+Kenya,2016,HAQ_Index,39.5
+Madagascar,1990,HAQ_Index,20.6
+Madagascar,1995,HAQ_Index,21.9
+Madagascar,2000,HAQ_Index,23.8
+Madagascar,2005,HAQ_Index,27.8
+Madagascar,2010,HAQ_Index,27.5
+Madagascar,2016,HAQ_Index,29.6
+Malawi,1990,HAQ_Index,19.0
+Malawi,1995,HAQ_Index,19.3
+Malawi,2000,HAQ_Index,21.5
+Malawi,2005,HAQ_Index,26.1
+Malawi,2010,HAQ_Index,28.7
+Malawi,2016,HAQ_Index,32.2
+Mauritius,1990,HAQ_Index,53.9
+Mauritius,1995,HAQ_Index,59.0
+Mauritius,2000,HAQ_Index,61.9
+Mauritius,2005,HAQ_Index,63.5
+Mauritius,2010,HAQ_Index,65.3
+Mauritius,2016,HAQ_Index,68.7
+Mozambique,1990,HAQ_Index,13.8
+Mozambique,1995,HAQ_Index,16.4
+Mozambique,2000,HAQ_Index,21.1
+Mozambique,2005,HAQ_Index,25.7
+Mozambique,2010,HAQ_Index,28.0
+Mozambique,2016,HAQ_Index,30.0
+Rwanda,1990,HAQ_Index,16.7
+Rwanda,1995,HAQ_Index,16.0
+Rwanda,2000,HAQ_Index,18.6
+Rwanda,2005,HAQ_Index,26.1
+Rwanda,2010,HAQ_Index,31.6
+Rwanda,2016,HAQ_Index,36.0
+Seychelles,1990,HAQ_Index,45.9
+Seychelles,1995,HAQ_Index,52.4
+Seychelles,2000,HAQ_Index,57.3
+Seychelles,2005,HAQ_Index,59.7
+Seychelles,2010,HAQ_Index,62.6
+Seychelles,2016,HAQ_Index,65.6
+Somalia,1990,HAQ_Index,12.8
+Somalia,1995,HAQ_Index,12.6
+Somalia,2000,HAQ_Index,13.5
+Somalia,2005,HAQ_Index,14.9
+Somalia,2010,HAQ_Index,16.9
+Somalia,2016,HAQ_Index,19.0
+Tanzania,1990,HAQ_Index,21.9
+Tanzania,1995,HAQ_Index,22.8
+Tanzania,2000,HAQ_Index,24.7
+Tanzania,2005,HAQ_Index,28.6
+Tanzania,2010,HAQ_Index,31.0
+Tanzania,2016,HAQ_Index,33.9
+Uganda,1990,HAQ_Index,19.3
+Uganda,1995,HAQ_Index,20.7
+Uganda,2000,HAQ_Index,23.7
+Uganda,2005,HAQ_Index,28.3
+Uganda,2010,HAQ_Index,29.3
+Uganda,2016,HAQ_Index,31.4
+Zambia,1990,HAQ_Index,21.9
+Zambia,1995,HAQ_Index,17.6
+Zambia,2000,HAQ_Index,17.2
+Zambia,2005,HAQ_Index,20.4
+Zambia,2010,HAQ_Index,22.7
+Zambia,2016,HAQ_Index,29.0
+Botswana,1990,HAQ_Index,36.5
+Botswana,1995,HAQ_Index,39.7
+Botswana,2000,HAQ_Index,39.7
+Botswana,2005,HAQ_Index,40.1
+Botswana,2010,HAQ_Index,46.6
+Botswana,2016,HAQ_Index,51.5
+Lesotho,1990,HAQ_Index,30.3
+Lesotho,1995,HAQ_Index,31.1
+Lesotho,2000,HAQ_Index,29.2
+Lesotho,2005,HAQ_Index,28.4
+Lesotho,2010,HAQ_Index,28.9
+Lesotho,2016,HAQ_Index,32.0
+Namibia,1990,HAQ_Index,27.5
+Namibia,1995,HAQ_Index,29.4
+Namibia,2000,HAQ_Index,32.2
+Namibia,2005,HAQ_Index,34.6
+Namibia,2010,HAQ_Index,39.5
+Namibia,2016,HAQ_Index,44.6
+South Africa,1990,HAQ_Index,40.1
+South Africa,1995,HAQ_Index,43.7
+South Africa,2000,HAQ_Index,40.9
+South Africa,2005,HAQ_Index,41.1
+South Africa,2010,HAQ_Index,45.2
+South Africa,2016,HAQ_Index,49.7
+Swaziland,1990,HAQ_Index,32.0
+Swaziland,1995,HAQ_Index,35.8
+Swaziland,2000,HAQ_Index,34.4
+Swaziland,2005,HAQ_Index,30.6
+Swaziland,2010,HAQ_Index,34.5
+Swaziland,2016,HAQ_Index,40.5
+Zimbabwe,1990,HAQ_Index,37.3
+Zimbabwe,1995,HAQ_Index,39.6
+Zimbabwe,2000,HAQ_Index,31.4
+Zimbabwe,2005,HAQ_Index,27.0
+Zimbabwe,2010,HAQ_Index,26.2
+Zimbabwe,2016,HAQ_Index,31.2
+Benin,1990,HAQ_Index,19.7
+Benin,1995,HAQ_Index,21.3
+Benin,2000,HAQ_Index,22.7
+Benin,2005,HAQ_Index,27.4
+Benin,2010,HAQ_Index,28.4
+Benin,2016,HAQ_Index,30.8
+Burkina Faso,1990,HAQ_Index,16.4
+Burkina Faso,1995,HAQ_Index,18.4
+Burkina Faso,2000,HAQ_Index,21.9
+Burkina Faso,2005,HAQ_Index,27.2
+Burkina Faso,2010,HAQ_Index,29.0
+Burkina Faso,2016,HAQ_Index,30.1
+Cameroon,1990,HAQ_Index,23.4
+Cameroon,1995,HAQ_Index,23.0
+Cameroon,2000,HAQ_Index,23.8
+Cameroon,2005,HAQ_Index,29.2
+Cameroon,2010,HAQ_Index,28.5
+Cameroon,2016,HAQ_Index,31.9
+Cape Verde,1990,HAQ_Index,38.1
+Cape Verde,1995,HAQ_Index,37.6
+Cape Verde,2000,HAQ_Index,41.4
+Cape Verde,2005,HAQ_Index,44.8
+Cape Verde,2010,HAQ_Index,49.4
+Cape Verde,2016,HAQ_Index,54.8
+Chad,1990,HAQ_Index,18.3
+Chad,1995,HAQ_Index,19.3
+Chad,2000,HAQ_Index,18.2
+Chad,2005,HAQ_Index,20.4
+Chad,2010,HAQ_Index,22.3
+Chad,2016,HAQ_Index,25.4
+Cote d'Ivoire,1990,HAQ_Index,19.9
+Cote d'Ivoire,1995,HAQ_Index,19.4
+Cote d'Ivoire,2000,HAQ_Index,20.7
+Cote d'Ivoire,2005,HAQ_Index,23.2
+Cote d'Ivoire,2010,HAQ_Index,26.0
+Cote d'Ivoire,2016,HAQ_Index,27.3
+The Gambia,1990,HAQ_Index,27.4
+The Gambia,1995,HAQ_Index,28.5
+The Gambia,2000,HAQ_Index,29.9
+The Gambia,2005,HAQ_Index,32.5
+The Gambia,2010,HAQ_Index,33.5
+The Gambia,2016,HAQ_Index,35.7
+Ghana,1990,HAQ_Index,25.6
+Ghana,1995,HAQ_Index,27.8
+Ghana,2000,HAQ_Index,29.6
+Ghana,2005,HAQ_Index,33.0
+Ghana,2010,HAQ_Index,34.6
+Ghana,2016,HAQ_Index,39.3
+Guinea,1990,HAQ_Index,17.1
+Guinea,1995,HAQ_Index,18.2
+Guinea,2000,HAQ_Index,20.1
+Guinea,2005,HAQ_Index,23.5
+Guinea,2010,HAQ_Index,23.9
+Guinea,2016,HAQ_Index,26.4
+Guinea-Bissau,1990,HAQ_Index,12.8
+Guinea-Bissau,1995,HAQ_Index,14.3
+Guinea-Bissau,2000,HAQ_Index,15.7
+Guinea-Bissau,2005,HAQ_Index,17.3
+Guinea-Bissau,2010,HAQ_Index,20.5
+Guinea-Bissau,2016,HAQ_Index,23.4
+Liberia,1990,HAQ_Index,20.5
+Liberia,1995,HAQ_Index,21.0
+Liberia,2000,HAQ_Index,23.2
+Liberia,2005,HAQ_Index,29.3
+Liberia,2010,HAQ_Index,30.7
+Liberia,2016,HAQ_Index,32.2
+Mali,1990,HAQ_Index,16.7
+Mali,1995,HAQ_Index,19.4
+Mali,2000,HAQ_Index,23.7
+Mali,2005,HAQ_Index,29.9
+Mali,2010,HAQ_Index,30.7
+Mali,2016,HAQ_Index,34.9
+Mauritania,1990,HAQ_Index,24.0
+Mauritania,1995,HAQ_Index,26.1
+Mauritania,2000,HAQ_Index,29.7
+Mauritania,2005,HAQ_Index,32.9
+Mauritania,2010,HAQ_Index,35.7
+Mauritania,2016,HAQ_Index,40.6
+Niger,1990,HAQ_Index,15.7
+Niger,1995,HAQ_Index,17.0
+Niger,2000,HAQ_Index,19.1
+Niger,2005,HAQ_Index,23.4
+Niger,2010,HAQ_Index,26.4
+Niger,2016,HAQ_Index,28.4
+Nigeria,1990,HAQ_Index,27.5
+Nigeria,1995,HAQ_Index,27.9
+Nigeria,2000,HAQ_Index,29.8
+Nigeria,2005,HAQ_Index,33.7
+Nigeria,2010,HAQ_Index,38.9
+Nigeria,2016,HAQ_Index,41.9
+Sao Tome and Principe,1990,HAQ_Index,25.9
+Sao Tome and Principe,1995,HAQ_Index,27.5
+Sao Tome and Principe,2000,HAQ_Index,30.0
+Sao Tome and Principe,2005,HAQ_Index,31.8
+Sao Tome and Principe,2010,HAQ_Index,36.7
+Sao Tome and Principe,2016,HAQ_Index,39.3
+Senegal,1990,HAQ_Index,22.4
+Senegal,1995,HAQ_Index,23.6
+Senegal,2000,HAQ_Index,24.5
+Senegal,2005,HAQ_Index,26.6
+Senegal,2010,HAQ_Index,28.1
+Senegal,2016,HAQ_Index,31.1
+Sierra Leone,1990,HAQ_Index,20.8
+Sierra Leone,1995,HAQ_Index,21.8
+Sierra Leone,2000,HAQ_Index,22.1
+Sierra Leone,2005,HAQ_Index,26.3
+Sierra Leone,2010,HAQ_Index,27.5
+Sierra Leone,2016,HAQ_Index,31.0
+Togo,1990,HAQ_Index,21.7
+Togo,1995,HAQ_Index,21.7
+Togo,2000,HAQ_Index,23.0
+Togo,2005,HAQ_Index,27.6
+Togo,2010,HAQ_Index,28.2
+Togo,2016,HAQ_Index,32.0
+South Sudan,1990,HAQ_Index,22.0
+South Sudan,1995,HAQ_Index,21.4
+South Sudan,2000,HAQ_Index,23.6
+South Sudan,2005,HAQ_Index,26.3
+South Sudan,2010,HAQ_Index,26.4
+South Sudan,2016,HAQ_Index,26.8
+Sudan,1990,HAQ_Index,28.6
+Sudan,1995,HAQ_Index,31.1
+Sudan,2000,HAQ_Index,33.7
+Sudan,2005,HAQ_Index,37.3
+Sudan,2010,HAQ_Index,40.5
+Sudan,2016,HAQ_Index,45.8
+Algeria,2015,Chronic_Respiratory(RSD),0.1
+Egypt,2015,Chronic_Respiratory(RSD),0.2
+Libya,2015,Chronic_Respiratory(RSD),0.1
+Morocco,2015,Chronic_Respiratory(RSD),0.1
+Tunisia,2015,Chronic_Respiratory(RSD),0.1
+Angola,2015,Chronic_Respiratory(RSD),1.1
+Central African Republic,2015,Chronic_Respiratory(RSD),1.2
+Congo,2015,Chronic_Respiratory(RSD),0.6
+Democratic Republic of the Congo,2015,Chronic_Respiratory(RSD),0.9
+Equatorial Guinea,2015,Chronic_Respiratory(RSD),0.8
+Gabon,2015,Chronic_Respiratory(RSD),0.4
+Burundi,2015,Chronic_Respiratory(RSD),0.6
+Comoros,2015,Chronic_Respiratory(RSD),0.2
+Djibouti,2015,Chronic_Respiratory(RSD),0.4
+Eritrea,2015,Chronic_Respiratory(RSD),0.5
+Ethiopia,2015,Chronic_Respiratory(RSD),0.3
+Kenya,2015,Chronic_Respiratory(RSD),0.2
+Madagascar,2015,Chronic_Respiratory(RSD),1.0
+Malawi,2015,Chronic_Respiratory(RSD),0.4
+Mauritius,2015,Chronic_Respiratory(RSD),0.3
+Mozambique,2015,Chronic_Respiratory(RSD),0.3
+Rwanda,2015,Chronic_Respiratory(RSD),0.6
+Seychelles,2015,Chronic_Respiratory(RSD),0.2
+Somalia,2015,Chronic_Respiratory(RSD),0.7
+Tanzania,2015,Chronic_Respiratory(RSD),0.3
+Uganda,2015,Chronic_Respiratory(RSD),0.5
+Zambia,2015,Chronic_Respiratory(RSD),0.3
+Botswana,2015,Chronic_Respiratory(RSD),0.3
+Lesotho,2015,Chronic_Respiratory(RSD),0.8
+Namibia,2015,Chronic_Respiratory(RSD),0.4
+South Africa,2015,Chronic_Respiratory(RSD),0.4
+Swaziland,2015,Chronic_Respiratory(RSD),0.6
+Zimbabwe,2015,Chronic_Respiratory(RSD),0.5
+Benin,2015,Chronic_Respiratory(RSD),0.3
+Burkina Faso,2015,Chronic_Respiratory(RSD),0.5
+Cameroon,2015,Chronic_Respiratory(RSD),0.4
+Cape Verde,2015,Chronic_Respiratory(RSD),0.1
+Chad,2015,Chronic_Respiratory(RSD),0.6
+Cote d'Ivoire,2015,Chronic_Respiratory(RSD),0.3
+The Gambia,2015,Chronic_Respiratory(RSD),0.2
+Ghana,2015,Chronic_Respiratory(RSD),0.2
+Guinea,2015,Chronic_Respiratory(RSD),0.4
+Guinea-Bissau,2015,Chronic_Respiratory(RSD),0.7
+Liberia,2015,Chronic_Respiratory(RSD),0.3
+Mali,2015,Chronic_Respiratory(RSD),0.1
+Mauritania,2015,Chronic_Respiratory(RSD),0.2
+Niger,2015,Chronic_Respiratory(RSD),0.5
+Nigeria,2015,Chronic_Respiratory(RSD),0.3
+Sao Tome and Principe,2015,Chronic_Respiratory(RSD),0.5
+Senegal,2015,Chronic_Respiratory(RSD),0.3
+Sierra Leone,2015,Chronic_Respiratory(RSD),0.4
+Togo,2015,Chronic_Respiratory(RSD),0.3
+South Sudan,2015,Chronic_Respiratory(RSD),0.6
+Sudan,2015,Chronic_Respiratory(RSD),0.8
+Algeria,2015,HAQ_Index,63.7
+Egypt,2015,HAQ_Index,61.0
+Libya,2015,HAQ_Index,69.9
+Morocco,2015,HAQ_Index,61.3
+Tunisia,2015,HAQ_Index,70.1
+Angola,2015,HAQ_Index,40.7
+Central African Republic,2015,HAQ_Index,28.6
+Congo,2015,HAQ_Index,43.5
+Democratic Republic of the Congo,2015,HAQ_Index,40.4
+Equatorial Guinea,2015,HAQ_Index,48.4
+Gabon,2015,HAQ_Index,51.4
+Burundi,2015,HAQ_Index,40.4
+Comoros,2015,HAQ_Index,47.7
+Djibouti,2015,HAQ_Index,44.7
+Eritrea,2015,HAQ_Index,38.1
+Ethiopia,2015,HAQ_Index,44.2
+Kenya,2015,HAQ_Index,48.7
+Madagascar,2015,HAQ_Index,43.7
+Malawi,2015,HAQ_Index,47.0
+Mauritius,2015,HAQ_Index,65.7
+Mozambique,2015,HAQ_Index,43.0
+Rwanda,2015,HAQ_Index,47.8
+Seychelles,2015,HAQ_Index,66.1
+Somalia,2015,HAQ_Index,34.2
+Tanzania,2015,HAQ_Index,49.9
+Uganda,2015,HAQ_Index,42.9
+Zambia,2015,HAQ_Index,41.6
+Botswana,2015,HAQ_Index,51.1
+Lesotho,2015,HAQ_Index,35.7
+Namibia,2015,HAQ_Index,53.7
+South Africa,2015,HAQ_Index,52.0
+Swaziland,2015,HAQ_Index,41.9
+Zimbabwe,2015,HAQ_Index,48.7
+Benin,2015,HAQ_Index,43.0
+Burkina Faso,2015,HAQ_Index,42.9
+Cameroon,2015,HAQ_Index,44.4
+Cape Verde,2015,HAQ_Index,61.7
+Chad,2015,HAQ_Index,37.7
+Cote d'Ivoire,2015,HAQ_Index,42.4
+The Gambia,2015,HAQ_Index,49.7
+Ghana,2015,HAQ_Index,49.7
+Guinea,2015,HAQ_Index,38.6
+Guinea-Bissau,2015,HAQ_Index,36.3
+Liberia,2015,HAQ_Index,45.4
+Mali,2015,HAQ_Index,45.6
+Mauritania,2015,HAQ_Index,52.0
+Niger,2015,HAQ_Index,41.0
+Nigeria,2015,HAQ_Index,51.3
+Sao Tome and Principe,2015,HAQ_Index,49.6
+Senegal,2015,HAQ_Index,44.4
+Sierra Leone,2015,HAQ_Index,41.3
+Togo,2015,HAQ_Index,44.3
+South Sudan,2015,HAQ_Index,38.8
+Sudan,2015,HAQ_Index,50.1
+Algeria,2019,HAQ_Index,58.66345256
+Algeria,2019,Chronic_Respiratory(RSD),9.02478e-06
+Egypt,2019,HAQ_Index,51.5552166
+Egypt,2019,Chronic_Respiratory(RSD),1.89126e-05
+Libya,2019,HAQ_Index,59.49992524
+Libya,2019,Chronic_Respiratory(RSD),8.14794e-06
+Morocco,2019,HAQ_Index,48.5491268
+Morocco,2019,Chronic_Respiratory(RSD),9.03797e-06
+Tunisia,2019,HAQ_Index,63.87093452
+Tunisia,2019,Chronic_Respiratory(RSD),6.63971e-06
+Angola,2019,HAQ_Index,29.30257277
+Angola,2019,Chronic_Respiratory(RSD),2.66402e-05
+Central African Republic,2019,HAQ_Index,15.16030482
+Central African Republic,2019,Chronic_Respiratory(RSD),7.64494e-05
+Congo,2019,HAQ_Index,33.95312845
+Congo,2019,Chronic_Respiratory(RSD),1.4646e-05
+Democratic Republic of Congo,2019,HAQ_Index,29.04130076
+Democratic Republic of Congo,2019,Chronic_Respiratory(RSD),3.03214e-05
+Equatorial Guinea,2019,HAQ_Index,42.4209623
+Equatorial Guinea,2019,Chronic_Respiratory(RSD),8.07764e-06
+Gabon,2019,HAQ_Index,39.62385028
+Gabon,2019,Chronic_Respiratory(RSD),8.87164e-06
+Burundi,2019,HAQ_Index,25.83942002
+Burundi,2019,Chronic_Respiratory(RSD),5.8191e-05
+Comoros,2019,HAQ_Index,31.80644169
+Comoros,2019,Chronic_Respiratory(RSD),2.6369e-05
+Djibouti,2019,HAQ_Index,32.59129492
+Djibouti,2019,Chronic_Respiratory(RSD),2.97281e-05
+Eritrea,2019,HAQ_Index,25.59651355
+Eritrea,2019,Chronic_Respiratory(RSD),4.26026e-05
+Ethiopia,2019,HAQ_Index,31.20527354
+Ethiopia,2019,Chronic_Respiratory(RSD),2.54128e-05
+Kenya,2019,HAQ_Index,33.36342069
+Kenya,2019,Chronic_Respiratory(RSD),1.93446e-05
+Madagascar,2019,HAQ_Index,29.01792767
+Madagascar,2019,Chronic_Respiratory(RSD),6.81901e-05
+Malawi,2019,HAQ_Index,29.89006308
+Malawi,2019,Chronic_Respiratory(RSD),3.12751e-05
+Mauritius,2019,HAQ_Index,56.65121934
+Mauritius,2019,Chronic_Respiratory(RSD),2.6581e-05
+Mozambique,2019,HAQ_Index,25.11177891
+Mozambique,2019,Chronic_Respiratory(RSD),3.12779e-05
+Rwanda,2019,HAQ_Index,31.76267245
+Rwanda,2019,Chronic_Respiratory(RSD),4.68826e-05
+Seychelles,2019,HAQ_Index,52.8426502
+Seychelles,2019,Chronic_Respiratory(RSD),7.05314e-06
+Somalia,2019,HAQ_Index,16.73228386
+Somalia,2019,Chronic_Respiratory(RSD),7.78795e-05
+Tanzania,2019,HAQ_Index,32.46087884
+Tanzania,2019,Chronic_Respiratory(RSD),4.20436e-05
+Uganda,2019,HAQ_Index,32.35636331
+Uganda,2019,Chronic_Respiratory(RSD),3.71564e-05
+Zambia,2019,HAQ_Index,31.61706097
+Zambia,2019,Chronic_Respiratory(RSD),2.65093e-05
+Botswana,2019,HAQ_Index,37.50612937
+Botswana,2019,Chronic_Respiratory(RSD),3.51583e-05
+Lesotho,2019,HAQ_Index,26.33864622
+Lesotho,2019,Chronic_Respiratory(RSD),4.43759e-05
+Namibia,2019,HAQ_Index,39.93723484
+Namibia,2019,Chronic_Respiratory(RSD),2.1691e-05
+South Africa,2019,HAQ_Index,44.56412633
+South Africa,2019,Chronic_Respiratory(RSD),1.44321e-05
+Eswatini,2019,HAQ_Index,32.52324398
+Eswatini,2019,Chronic_Respiratory(RSD),2.99281e-05
+Zimbabwe,2019,HAQ_Index,28.57709564
+Zimbabwe,2019,Chronic_Respiratory(RSD),1.6028e-05
+Benin,2019,HAQ_Index,31.40345896
+Benin,2019,Chronic_Respiratory(RSD),4.02914e-05
+Burkina Faso,2019,HAQ_Index,28.46234423
+Burkina Faso,2019,Chronic_Respiratory(RSD),5.78348e-05
+Cameroon,2019,HAQ_Index,33.72569358
+Cameroon,2019,Chronic_Respiratory(RSD),2.66885e-05
+Cabo Verde,2019,HAQ_Index,50.24221758
+Cabo Verde,2019,Chronic_Respiratory(RSD),4.75717e-06
+Chad,2019,HAQ_Index,23.7514524
+Chad,2019,Chronic_Respiratory(RSD),5.27741e-05
+Cote d'Ivoire,2019,HAQ_Index,34.32034485
+Cote d'Ivoire,2019,Chronic_Respiratory(RSD),2.82282e-05
+Gambia,2019,HAQ_Index,34.67980527
+Gambia,2019,Chronic_Respiratory(RSD),2.20311e-05
+Ghana,2019,HAQ_Index,36.05525967
+Ghana,2019,Chronic_Respiratory(RSD),2.47926e-05
+Guinea,2019,HAQ_Index,25.68856488
+Guinea,2019,Chronic_Respiratory(RSD),5.83098e-05
+Guinea-Bissau,2019,HAQ_Index,24.26291795
+Guinea-Bissau,2019,Chronic_Respiratory(RSD),3.24384e-05
+Liberia,2019,HAQ_Index,35.73525436
+Liberia,2019,Chronic_Respiratory(RSD),2.98424e-05
+Mali,2019,HAQ_Index,29.59361342
+Mali,2019,Chronic_Respiratory(RSD),1.47739e-05
+Mauritania,2019,HAQ_Index,42.141039
+Mauritania,2019,Chronic_Respiratory(RSD),1.07166e-05
+Niger,2019,HAQ_Index,26.45919369
+Niger,2019,Chronic_Respiratory(RSD),6.02265e-05
+Nigeria,2019,HAQ_Index,31.61698995
+Nigeria,2019,Chronic_Respiratory(RSD),2.3228e-05
+Sao Tome and Principe,2019,HAQ_Index,41.41126326
+Sao Tome and Principe,2019,Chronic_Respiratory(RSD),2.12527e-05
+Senegal,2019,HAQ_Index,33.96111698
+Senegal,2019,Chronic_Respiratory(RSD),2.18454e-05
+Sierra Leone,2019,HAQ_Index,30.9193827
+Sierra Leone,2019,Chronic_Respiratory(RSD),5.24994e-05
+Togo,2019,HAQ_Index,33.4784228
+Togo,2019,Chronic_Respiratory(RSD),2.39385e-05
+South Sudan,2019,HAQ_Index,29.11390572
+South Sudan,2019,Chronic_Respiratory(RSD),5.22323e-05
+Sudan,2019,HAQ_Index,43.92242311
+Sudan,2019,Chronic_Respiratory(RSD),2.9882e-05
